@@ -1,42 +1,33 @@
-let product
+let json
 const api_url = "https://fakestoreapi.com/"
 
+function preload() {
+  json = loadJSON("https://fakestoreapi.com/products");
+}
+
 function setup() {
-  createCanvas(400, 400);
+  noCanvas();
 
-  fetchProduct();
+  let d1 = createDiv();
+d1.position(0,0);
+  let b = createButton("Buy Now");
+  b.mouseClicked( clicked );
+  console.log(json[0]);
+  createP(json[0].title);
+  img = createImg(json[0].image);
+  img.style("width","200px");
+  createP(json[0].price);
 
-  let buyButton = createButton('Buy Now');
-  buyButton.position(150, height+10);
-  buyButton.mousePressed(buyProduct)
+  let b2 = createButton("Buy Now");
+  b2.mouseClicked( clicked );
+  console.log(json[1]);
+  createP(json[1].title);
+  img = createImg(json[1].image);
+  img.style("width","200px");
+  createP(json[1].price);
 }
 
-
-function fetchProduct() {
-  fetch("https://fakestoreapi.com/products")
-  .then((res) => res.json())
-  .then((data) => console.log(data));
-} 
-
-
-function draw() {
-  background(150);
-
-  textAlign(CENTER)
-  textSize(16)
-
-  if (product) { 
-text('Title: ${product.title}');
-text('Price: ${product.price}');
-  } else{
-    text("Error fetching product");
-  }
+function clicked() {
+  let p = createP(json[ floor(random(20)) ].title);
+  p.position( random(displayWidth), random(displayHeight) )
 }
-
-
-function buyProduct() {
-  window.alert('are you sure? What about this one instead?')
-
-fetchProduct()
-}
-
