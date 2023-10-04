@@ -1,0 +1,634 @@
+[
+    {
+      "id": 1,
+      "title": "Women's High Waisted Leggings",
+      "price": 19.99,
+      "description": "Comfortable and stylish high-waisted leggings for women. Perfect for yoga, gym, or everyday wear.",
+      "category": "women's clothing",
+      "image": "image3.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 85
+      }
+    },
+    {
+      "id": 2,
+      "title": "Men's Running Shoes",
+      "price": 49.99,
+      "description": "Lightweight and durable running shoes for men. Ideal for both casual jogs and intense workouts.",
+      "category": "men's footwear",
+      "image": "image4.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 64
+      }
+    },
+    {
+      "id": 3,
+      "title": "Wireless Bluetooth Earbuds",
+      "price": 39.99,
+      "description": "High-quality wireless earbuds with Bluetooth connectivity. Enjoy music and take calls on the go.",
+      "category": "electronics",
+      "image": "image5.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 120
+      }
+    },
+    {
+      "id": 4,
+      "title": "Classic Leather Wallet",
+      "price": 29.99,
+      "description": "Timeless and elegant leather wallet for men. Multiple compartments for cards, cash, and ID.",
+      "category": "men's accessories",
+      "image": "image6.jpg",
+      "rating": {
+        "rate": 4.0,
+        "count": 40
+      }
+    },
+    {
+      "id": 5,
+      "title": "Smart Fitness Tracker",
+      "price": 79.99,
+      "description": "Track your fitness goals with this smart fitness tracker. Monitors heart rate, steps, and sleep patterns.",
+      "category": "electronics",
+      "image": "image7.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 92
+      }
+    },
+    {
+      "id": 6,
+      "title": "Designer Sunglasses",
+      "price": 59.99,
+      "description": "Stay stylish and protect your eyes with these designer sunglasses. UV protection and trendy design.",
+      "category": "fashion accessories",
+      "image": "image8.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 78
+      }
+    },
+    {
+      "id": 7,
+      "title": "Gaming Mouse with RGB Lighting",
+      "price": 34.99,
+      "description": "Enhance your gaming experience with this high-performance gaming mouse. Customizable RGB lighting.",
+      "category": "gaming accessories",
+      "image": "image9.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 56
+      }
+    },
+    {
+      "id": 8,
+      "title": "Stainless Steel Water Bottle",
+      "price": 24.99,
+      "description": "Durable and eco-friendly stainless steel water bottle. Keeps your drinks cold or hot for hours.",
+      "category": "home and kitchen",
+      "image": "image10.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 68
+      }
+    },
+    {
+      "id": 9,
+      "title": "Hiking Backpack with Hydration System",
+      "price": 69.99,
+      "description": "Perfect for outdoor adventures, this hiking backpack comes with a built-in hydration system.",
+      "category": "outdoor gear",
+      "image": "image11.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 110
+      }
+    },
+    {
+      "id": 10,
+      "title": "Compact Digital Camera",
+      "price": 129.99,
+      "description": "Capture high-quality photos with this compact digital camera. Ideal for travel and everyday photography.",
+      "category": "electronics",
+      "image": "image12.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 72
+      }
+    },
+    {
+      "id": 11,
+      "title": "Organic Green Tea Sampler",
+      "price": 14.99,
+      "description": "Experience a variety of organic green teas with this sampler pack. Refreshing and full of antioxidants.",
+      "category": "food and beverages",
+      "image": "image13.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 90
+      }
+    }
+    ,
+        {
+          "id": 12,
+          "title": "Leather Office Chair",
+          "price": 149.99,
+          "description": "Upgrade your workspace with this comfortable and stylish leather office chair. Adjustable height and tilt.",
+          "category": "office furniture",
+          "image": "image14.jpg",
+          "rating": {
+            "rate": 4.6,
+            "count": 88
+          }
+        },
+        {
+          "id": 13,
+          "title": "Digital Alarm Clock with Wireless Charging",
+          "price": 29.99,
+          "description": "Wake up on time and charge your devices with this digital alarm clock featuring wireless charging capabilities.",
+          "category": "electronics",
+          "image": "image15.jpg",
+          "rating": {
+            "rate": 4.4,
+            "count": 65
+          }
+        },
+        {
+          "id": 14,
+          "title": "Vegetarian Cookbook",
+          "price": 19.99,
+          "description": "Explore delicious and nutritious vegetarian recipes with this comprehensive cookbook. Perfect for home cooks.",
+          "category": "books",
+          "image": "image16.jpg",
+          "rating": {
+            "rate": 4.8,
+            "count": 102
+          }
+        },
+        {
+          "id": 15,
+          "title": "Wooden Chess Set",
+          "price": 39.99,
+          "description": "Enjoy the classic game of chess with this elegant wooden chess set. Perfect for beginners and enthusiasts alike.",
+          "category": "toys and games",
+          "image": "image17.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 74
+          }
+        },
+        {
+          "id": 16,
+          "title": "Portable External Hard Drive",
+          "price": 79.99,
+          "description": "Store and backup your important data with this portable external hard drive. High-speed USB 3.0 connectivity.",
+          "category": "electronics",
+          "image": "image18.jpg",
+          "rating": {
+            "rate": 4.5,
+            "count": 96
+          }
+        },
+        {
+          "id": 17,
+          "title": "Indoor Plants Variety Pack",
+          "price": 29.99,
+          "description": "Bring nature indoors with this variety pack of easy-to-care-for indoor plants. Perfect for home or office decor.",
+          "category": "home and garden",
+          "image": "image19.jpg",
+          "rating": {
+            "rate": 4.9,
+            "count": 120
+          }
+        },
+        {
+          "id": 18,
+          "title": "Professional Chef's Knife",
+          "price": 59.99,
+          "description": "Upgrade your kitchen with this high-quality professional chef's knife. Precision and durability for culinary enthusiasts.",
+          "category": "kitchenware",
+          "image": "image20.jpg",
+          "rating": {
+            "rate": 4.6,
+            "count": 82
+          }
+        },
+        {
+          "id": 19,
+          "title": "Bluetooth Soundbar",
+          "price": 89.99,
+          "description": "Enhance your audio experience with this Bluetooth soundbar. Perfect for home entertainment systems.",
+          "category": "electronics",
+          "image": "image21.jpg",
+          "rating": {
+            "rate": 4.3,
+            "count": 68
+          }
+        },
+        {
+          "id": 20,
+          "title": "Yoga Mat and Accessories Set",
+          "price": 49.99,
+          "description": "Begin or enhance your yoga practice with this mat and accessories set. Comfortable and eco-friendly materials.",
+          "category": "fitness",
+          "image": "image22.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 90
+          }
+        },
+        {
+          "id": 21,
+          "title": "Smart Home Security Camera",
+          "price": 129.99,
+          "description": "Keep your home secure with this smart security camera. HD video, night vision, and motion detection capabilities.",
+          "category": "smart home",
+          "image": "image23.jpg",
+          "rating": {
+            "rate": 4.5,
+            "count": 110
+          }
+        },
+
+            {
+              "id": 22,
+              "title": "Electric Toothbrush with UV Sanitizer",
+              "price": 39.99,
+              "description": "Maintain oral hygiene with this electric toothbrush featuring a UV sanitizer for brush head sterilization.",
+              "category": "personal care",
+              "image": "image24.jpg",
+              "rating": {
+                "rate": 4.6,
+                "count": 78
+              }
+            },
+            {
+              "id": 23,
+              "title": "Leather Messenger Bag",
+              "price": 69.99,
+              "description": "Carry your essentials in style with this genuine leather messenger bag. Multiple compartments for organization.",
+              "category": "fashion accessories",
+              "image": "image25.jpg",
+              "rating": {
+                "rate": 4.8,
+                "count": 92
+              }
+            },
+            {
+              "id": 24,
+              "title": "Digital Drawing Tablet",
+              "price": 89.99,
+              "description": "Unleash your creativity with this digital drawing tablet. Ideal for artists and graphic designers.",
+              "category": "electronics",
+              "image": "image26.jpg",
+              "rating": {
+                "rate": 4.7,
+                "count": 105
+              }
+            },
+            {
+              "id": 25,
+              "title": "Outdoor Camping Tent",
+              "price": 129.99,
+              "description": "Experience the great outdoors with this durable and easy-to-set-up camping tent. Perfect for camping enthusiasts.",
+              "category": "outdoor gear",
+              "image": "image27.jpg",
+              "rating": {
+                "rate": 4.9,
+                "count": 115
+              }
+            },
+            {
+              "id": 26,
+              "title": "Aromatherapy Essential Oil Diffuser",
+              "price": 24.99,
+              "description": "Create a relaxing atmosphere with this essential oil diffuser. Multiple LED light options and quiet operation.",
+              "category": "home and wellness",
+              "image": "image28.jpg",
+              "rating": {
+                "rate": 4.5,
+                "count": 88
+              }
+            },
+            {
+              "id": 27,
+              "title": "Men's Classic Watch",
+              "price": 79.99,
+              "description": "Elevate your style with this classic men's watch. Stainless steel construction and timeless design.",
+              "category": "watches",
+              "image": "image29.jpg",
+              "rating": {
+                "rate": 4.4,
+                "count": 72
+              }
+            },
+            {
+              "id": 28,
+              "title": "Compact Espresso Maker",
+              "price": 49.99,
+              "description": "Brew your favorite espresso at home with this compact espresso maker. Easy to use and clean.",
+              "category": "kitchen appliances",
+              "image": "image30.jpg",
+              "rating": {
+                "rate": 4.6,
+                "count": 96
+              }
+            },
+            {
+              "id": 29,
+              "title": "Memory Foam Mattress Topper",
+              "price": 79.99,
+              "description": "Enhance your sleeping experience with this memory foam mattress topper. Provides comfort and support.",
+              "category": "bedding",
+              "image": "image31.jpg",
+              "rating": {
+                "rate": 4.7,
+                "count": 82
+              }
+            },
+            {
+              "id": 30,
+              "title": "Fitness Resistance Bands Set",
+              "price": 19.99,
+              "description": "Achieve your fitness goals with this set of resistance bands. Suitable for a variety of workout routines.",
+              "category": "fitness",
+              "image": "image32.jpg",
+              "rating": {
+                "rate": 4.5,
+                "count": 68
+              }
+            },
+            {
+              "id": 31,
+              "title": "Stylish Desk Lamp",
+              "price": 34.99,
+              "description": "Illuminate your workspace with this stylish desk lamp. Adjustable brightness and modern design.",
+              "category": "home office",
+              "image": "image33.jpg",
+              "rating": {
+                "rate": 4.3,
+                "count": 56
+              }
+            },
+            {
+              "id": 32,
+              "title": "Bluetooth Wireless Headphones",
+              "price": 59.99,
+              "description": "Enjoy wireless audio with these Bluetooth headphones. Comfortable design for extended use.",
+              "category": "electronics",
+              "image": "image34.jpg",
+              "rating": {
+                "rate": 4.8,
+                "count": 102
+              }
+            },
+            {
+              "id": 33,
+              "title": "Reusable Stainless Steel Straw Set",
+              "price": 9.99,
+              "description": "Reduce single-use plastic with this set of reusable stainless steel straws. Includes a cleaning brush and travel case.",
+              "category": "eco-friendly",
+              "image": "image35.jpg",
+              "rating": {
+                "rate": 4.9,
+                "count": 120
+              }
+            },
+            {
+              "id": 34,
+              "title": "Wireless Charging Pad",
+              "price": 24.99,
+              "description": "Charge your devices effortlessly with this wireless charging pad. Compatible with Qi-enabled devices.",
+              "category": "electronics",
+              "image": "image36.jpg",
+              "rating": {
+                "rate": 4.2,
+                "count": 65
+              }
+            },
+            {
+              "id": 35,
+              "title": "Portable Solar Power Bank",
+              "price": 49.99,
+              "description": "Stay charged on the go with this portable solar power bank. Solar and USB charging options.",
+              "category": "electronics",
+              "image": "image37.jpg",
+              "rating": {
+                "rate": 4.5,
+                "count": 98
+              }
+            },
+            {
+              "id": 36,
+              "title": "Foldable Laptop Stand",
+              "price": 29.99,
+              "description": "Improve ergonomics with this foldable laptop stand. Adjustable height and angle for comfortable use.",
+              "category": "office accessories",
+              "image": "image38.jpg",
+              "rating": {
+                "rate": 4.4,
+                "count": 74
+              }
+            },
+            {
+              "id": 37,
+              "title": "Gourmet Chocolate Assortment",
+              "price": 19.99,
+              "description": "Indulge in luxury with this gourmet chocolate assortment. Perfect for chocolate lovers and special occasions.",
+              "category": "food and beverages",
+              "image": "image39.jpg",
+              "rating": {
+                "rate": 4.7,
+                "count": 88
+              }
+            },
+                {
+                  "id": 38,
+                  "title": "Adjustable Dumbbell Set",
+                  "price": 149.99,
+                  "description": "Build strength at home with this adjustable dumbbell set. Easily change weights for various exercises.",
+                  "category": "fitness",
+                  "image": "image40.jpg",
+                  "rating": {
+                    "rate": 4.8,
+                    "count": 110
+                  }
+                },
+                {
+                  "id": 39,
+                  "title": "Sleek Minimalist Desk",
+                  "price": 179.99,
+                  "description": "Upgrade your workspace with this sleek and minimalist desk. Ideal for modern home offices.",
+                  "category": "office furniture",
+                  "image": "image41.jpg",
+                  "rating": {
+                    "rate": 4.9,
+                    "count": 95
+                  }
+                },
+                {
+                  "id": 40,
+                  "title": "Reusable Beeswax Food Wraps",
+                  "price": 14.99,
+                  "description": "Embrace eco-friendly living with these reusable beeswax food wraps. A sustainable alternative to plastic wraps.",
+                  "category": "eco-friendly",
+                  "image": "image42.jpg",
+                  "rating": {
+                    "rate": 4.7,
+                    "count": 80
+                  }
+                },
+                {
+                  "id": 41,
+                  "title": "Portable Bluetooth Speaker",
+                  "price": 29.99,
+                  "description": "Enjoy music on the go with this portable Bluetooth speaker. Compact design with impressive sound quality.",
+                  "category": "electronics",
+                  "image": "image43.jpg",
+                  "rating": {
+                    "rate": 4.5,
+                    "count": 68
+                  }
+                },
+                {
+                  "id": 42,
+                  "title": "Solar-Powered Outdoor Lights",
+                  "price": 24.99,
+                  "description": "Illuminate your outdoor space with these solar-powered lights. Energy-efficient and easy to install.",
+                  "category": "home and garden",
+                  "image": "image44.jpg",
+                  "rating": {
+                    "rate": 4.6,
+                    "count": 75
+                  }
+                },
+                {
+                  "id": 43,
+                  "title": "Memory Foam Lumbar Pillow",
+                  "price": 19.99,
+                  "description": "Support your lower back with this memory foam lumbar pillow. Ideal for office chairs and car seats.",
+                  "category": "home and wellness",
+                  "image": "image45.jpg",
+                  "rating": {
+                    "rate": 4.3,
+                    "count": 60
+                  }
+                },
+                {
+                  "id": 44,
+                  "title": "Wireless Charging Desk Lamp",
+                  "price": 49.99,
+                  "description": "Combine functionality with style using this wireless charging desk lamp. Adjustable brightness and charging pad.",
+                  "category": "home office",
+                  "image": "image46.jpg",
+                  "rating": {
+                    "rate": 4.8,
+                    "count": 92
+                  }
+                },
+                {
+                  "id": 45,
+                  "title": "Air Purifier with HEPA Filter",
+                  "price": 79.99,
+                  "description": "Breathe cleaner air with this air purifier featuring a HEPA filter. Perfect for home or office use.",
+                  "category": "home and wellness",
+                  "image": "image47.jpg",
+                  "rating": {
+                    "rate": 4.9,
+                    "count": 105
+                  }
+                },
+                {
+                  "id": 46,
+                  "title": "Digital Meat Thermometer",
+                  "price": 14.99,
+                  "description": "Cook meat to perfection with this digital meat thermometer. Accurate readings for delicious results.",
+                  "category": "kitchen gadgets",
+                  "image": "image48.jpg",
+                  "rating": {
+                    "rate": 4.6,
+                    "count": 78
+                  }
+                },
+                {
+                  "id": 47,
+                  "title": "Inflatable Stand-Up Paddleboard",
+                  "price": 299.99,
+                  "description": "Explore the waters with this inflatable stand-up paddleboard. Portable and suitable for all skill levels.",
+                  "category": "water sports",
+                  "image": "image49.jpg",
+                  "rating": {
+                    "rate": 4.7,
+                    "count": 90
+                  }
+                },
+                {
+                  "id": 48,
+                  "title": "Organic Cotton Bed Sheets",
+                  "price": 54.99,
+                  "description": "Experience comfort with these organic cotton bed sheets. Soft, breathable, and environmentally friendly.",
+                  "category": "bedding",
+                  "image": "image50.jpg",
+                  "rating": {
+                    "rate": 4.5,
+                    "count": 82
+                  }
+                },
+                {
+                  "id": 49,
+                  "title": "Folding Electric Scooter",
+                  "price": 249.99,
+                  "description": "Commute in style with this folding electric scooter. Compact design with a powerful electric motor.",
+                  "category": "electronics",
+                  "image": "image51.jpg",
+                  "rating": {
+                    "rate": 4.3,
+                    "count": 68
+                  }
+                },
+                {
+                  "id": 50,
+                  "title": "Adjustable Laptop Cooling Stand",
+                  "price": 34.99,
+                  "description": "Prevent overheating with this adjustable laptop cooling stand. Ergonomic design for comfortable use.",
+                  "category": "office accessories",
+                  "image": "image52.jpg",
+                  "rating": {
+                    "rate": 4.6,
+                    "count": 75
+                  }
+                },
+                {
+                  "id": 51,
+                  "title": "Smart Home Thermostat",
+                  "price": 129.99,
+                  "description": "Efficiently control your home's temperature with this smart home thermostat. Wi-Fi enabled for remote access.",
+                  "category": "smart home",
+                  "image": "image53.jpg",
+                  "rating": {
+                    "rate": 4.8,
+                    "count": 110
+                  }
+                },
+                {
+                  "id": 52,
+                  "title": "Collapsible Travel Water Bottle",
+                  "price": 12.99,
+                  "description": "Stay hydrated on the go with this collapsible travel water bottle. Compact and eco-friendly design.",
+                  "category": "travel accessories",
+                  "image": "image54.jpg",
+                  "rating": {
+                    "rate": 4.7,
+                    "count": 95
+                  }
+                }
+            ]
+        
+          
+      
+
+  
+  
