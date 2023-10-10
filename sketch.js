@@ -54,7 +54,7 @@ function displayProduct() {
   img.style("width", "200px");
   createP(product.price).parent(productDiv);
   
-  let buyButton = createButton("Buy Now");
+  let buyButton = createButton("Buy Now!");
   buyButton.mouseClicked(() => {
     popUpCount++;
     keysArray.splice(keysArray.indexOf(product.title), 1);
