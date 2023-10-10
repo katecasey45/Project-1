@@ -246,7 +246,7 @@
           "price": 129.99,
           "description": "Keep your home secure with this smart security camera. HD video, night vision, and motion detection capabilities.",
           "category": "smart home",
-          "image": "image21.",
+          "image": "image21.png",
           "rating": {
             "rate": 4.5,
             "count": 110
